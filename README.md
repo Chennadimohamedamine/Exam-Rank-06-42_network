@@ -1,4 +1,12 @@
 # mini_serv
+<h1 align="center"> Exam Rank 06 | 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/42/white">
+  <img alt="42" width=40 align="center" src="https://cdn.simpleicons.org/42/Black">
+ </picture>
+ Cursus 
+  <img alt="Complete" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/complete.svg">
+</h1>
 
 A lightweight TCP chat server written in C that allows multiple clients to communicate with each other over `127.0.0.1`.
 
